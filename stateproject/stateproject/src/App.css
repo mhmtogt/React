@@ -1,0 +1,20 @@
+.App{
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+}
+.appButton{  
+  padding: 10px;
+  border-radius: 10px;
+  width: 25%;
+  background: blue;
+  color: white;
+  font-size: 20px;
+  border: 1px solid blue;
+}
+
+.languageList{
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+}
